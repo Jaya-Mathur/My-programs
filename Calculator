@@ -1,3 +1,7 @@
+Develop an applet that receives an integer in one text field, compute its factorial value and then return it in another field 
+when the button named "Compute" is clicked. Write a Java program that works as a simple calculator by using grid layout to arrange 
+buttons for the digits and the +,-,*,/,% operations. Add a text field to display the result.
+
 import java.applet.*; 
 import java.awt.*;
 import java.awt.event.*; 
